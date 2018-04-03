@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<data>
+	<configuration name="Default">
+		<pomodoro>25</pomodoro>
+		<shortbreak>5</shortbreak>
+		<longbreak>25</longbreak>
+		<alarm>true</alarm>
+		<beforelongbreak>4</beforelongbreak>
+	</configuration>
+</data>
